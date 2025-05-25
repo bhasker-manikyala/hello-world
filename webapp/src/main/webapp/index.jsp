@@ -29,6 +29,6 @@
   </div>
 
    <h1> Thank you</h1>
-
+   <h2> Please avail 30% discount </h2>
   
 </form>
